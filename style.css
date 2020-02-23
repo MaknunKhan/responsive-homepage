@@ -1,0 +1,20 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+}
+
+
+a.contactColor{
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
+.container{
+    margin-bottom: 100px;
+    
+}
+#nav-position{
+    position: fixed;
+}
